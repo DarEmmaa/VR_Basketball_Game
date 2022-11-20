@@ -1,0 +1,11 @@
+Model Information:
+* title:	2017 Mclaren 720s
+* source:	https://sketchfab.com/3d-models/2017-mclaren-720s-f7bece69400f4640a4a3be746b44998b
+* author:	_Sheep19 (https://sketchfab.com/shobhit190401)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2017 Mclaren 720s" (https://sketchfab.com/3d-models/2017-mclaren-720s-f7bece69400f4640a4a3be746b44998b) by _Sheep19 (https://sketchfab.com/shobhit190401) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
